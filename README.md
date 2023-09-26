@@ -1,5 +1,5 @@
 # CSS-basics-by-building-a-Cafe-Menu
 Responsive Web Design: A Basic Project.
 
-CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
-This is one of many other projects where the basics of HTML and CSS were put to use!
+Creating A Coffee Menu Using HTML And CSS
+![Coffee Menu](https://github.com/JosiasIsZero/CSS-basics-by-building-a-Cafe-Menu/assets/105129441/d298bd70-a588-4d8b-b07e-9c4814b81bcd)
